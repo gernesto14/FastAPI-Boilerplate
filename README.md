@@ -9,8 +9,6 @@ A minimal FastAPI project with:
 
 ---
 
-## 📂 Project Structure
-
 ## ▶ Running the App
 
 ```bash
