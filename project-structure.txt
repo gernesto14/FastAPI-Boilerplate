@@ -1,0 +1,24 @@
+.
+├── README.md
+├── __pycache__
+│   └── main.cpython-311.pyc
+├── app
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   └── __init__.cpython-311.pyc
+│   ├── routes
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   └── health.py
+│   ├── services
+│   │   └── __init__.py
+│   └── utils
+│       ├── __init__.py
+│       ├── __pycache__
+│       └── logger.py
+├── main.py
+├── project-structure.txt
+├── pyproject.toml
+└── uv.lock
+
+9 directories, 13 files
